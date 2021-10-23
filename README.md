@@ -1,6 +1,8 @@
 # cs50-9-birthdays - Summary
 Web application to keep track of friends’ birthdays. This is an exercise for Harvard's CS50 online course.
 
+![birthdays web app](https://github.com/Nimikro/cs50-9-birthdays/blob/main/birthdays.png)
+
 # About this program
 
 In `application.py`, you’ll find the start of a Flask web application. The application has one route (`/`) that accepts both `POST` requests (after the `if`) and `GET` requests (after the `else`). When the `/` route is requested via `GET`, the `index.html` template is rendered. When the `/` route is requested via `POST`, the user is redirected back to `/` via `GET`.
