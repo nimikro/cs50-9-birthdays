@@ -25,10 +25,6 @@ To install Flask, run:
 ```
 sudo apt install python3-flask
 ```
-To install this project's dependecies, run:
-```
-pip3 install -r requirements.txt
-```
 Define the correct file as the default Flask application:
 
 Unix Bash (Linux, Mac, etc.):
